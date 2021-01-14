@@ -1,0 +1,28 @@
+{
+  "name": "cristianpb",
+  "version": "1.0.0",
+  "description": "Github profile README",
+  "main": "index.js",
+  "dependencies": {
+    "mustache": "^4.1.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianpb/cristianpb.git"
+  },
+  "keywords": [
+    "github",
+    "markdown"
+  ],
+  "author": "Cristian Brokate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianpb/cristianpb/issues"
+  },
+  "homepage": "https://github.com/cristianpb/cristianpb#readme"
+}
